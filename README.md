@@ -19,7 +19,7 @@ Este proyecto combina Power BI y Python (Google Colab) para analizar ventas, ide
 ### Ejemplos de Visualizaciones
 
 📌 Relación ventas y diferencia con año pasado  
-![Relación Ventas vs Año Pasado]({A313BA5C-7155-44DF-A647-5FA74BB858D5}.png)
+![Relación Ventas vs Año Pasado]({Dispersión}.png)
 
 📌 Ventas por categoría y año-mes  
 ![Ventas por Categoría]({0EFB782E-A20E-48B9-883F-44EFE6F33BEE}.png)
